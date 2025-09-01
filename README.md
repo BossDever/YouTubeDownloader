@@ -2,7 +2,7 @@
 
 <img alt="Python" src="https://img.shields.io/badge/Python-3.8+-blue.svg">
 <img alt="Tkinter" src="https://img.shields.io/badge/GUI-Tkinter-green.svg">
-<img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg">
+<a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
 
 เครื่องมือสำหรับดาวน์โหลดวิดีโอจาก YouTube อย่างง่ายดายด้วยส่วนติดต่อผู้ใช้แบบกราฟิก (GUI) ที่ใช้ Tkinter พร้อมรองรับการตั้งค่า DPI สำหรับหน้าจอความละเอียดสูง
 
@@ -35,7 +35,7 @@
 2. ทำตามคำแนะนำบนหน้าจอเพื่อดาวน์โหลดวิดีโอจาก YouTube
 
 ## ลิขสิทธิ์
-โปรเจคนี้อยู่ภายใต้ MIT License
+โปรเจกต์นี้อยู่ภายใต้สัญญาอนุญาต [MIT License](LICENSE)
 
 ## ผู้พัฒนา
 - BossDever
